@@ -1,0 +1,32 @@
+#emptyline {
+    border: 1px solid red;
+}
+
+* {
+    font-size: 28px;
+}
+
+#LoginForm
+{
+    border-image: url(:/images/login_back.jpg);}
+
+#LoginBullet
+{
+    background-color: white;
+    border: 3px solid black;
+}
+
+#GreenButton
+{
+    background-color: #56c06d;
+}
+
+#Darker
+{
+    background-color: #35a9c2;
+}
+
+#Lighter
+{
+    background-color: #a3d8e3;
+}

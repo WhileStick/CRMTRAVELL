@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="images">
+        <file alias="login_back.jpg">Styles/Images/login_back.jpg</file>
+        <file alias="cotravel.png">Styles/Images/cotravel.png</file>
+    </qresource>
+</RCC>
